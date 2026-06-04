@@ -1,0 +1,32 @@
+# Compiled Binaries & Executables
+*.exe
+*.o
+*.out
+/MIPS/test/assembler
+
+# Python Caches & Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# LaTeX Auxiliary Files (but keeping main.pdf)
+*.aux
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.bcf
+*.run.xml
+*.blg
+*.toc
+*.lof
+*.lot
+
+# OS Metadata
+.DS_Store
+Thumbs.db

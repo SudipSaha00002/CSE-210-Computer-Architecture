@@ -1,0 +1,10 @@
+addi $t0, $zero, 4
+addi $t1, $zero, 4
+sw $t0, 0($t0)
+sw $t1, 0($t0)
+#hello bhai
+
+
+
+lw $t2, 0($t0)    #   samyo pramanik
+lw $t3, 0($t2)

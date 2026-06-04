@@ -1,0 +1,42 @@
+IC         Quantity
+
+7404  --       1
+7408  --       3
+7432  --       2
+7483  --       1
+7486  --       1
+74157 --       3
+-----------------
+          Total:11
+
+The other equipment for ALU Hardware
+
+                                            Quantity
+
+PVC Square 12-inch  if thick(5mm) then ----  1 pic
+
+PVC Square 12-inch  if thin(3mm) then  ----  2 pic
+
+Jumper Box                             ----  NO Need 
+
+Wire Stripper Cutter                   ----  1
+
+22 gauge wire                          ----  1 yard for each color
+
+Tweezer                                ----  1
+ 
+LEDs                                   ----  20
+
+Switch                                 ----  15
+
+Rechargeable Battery                   ----  1 
+
+Resistor(220 ohm)                      ----  20 pic
+
+Breadboard                             ----  3 pic
+
+Gule Gun                               ----
+
+Big Size Container(RFL Food Box)       ----  1
+     (According to the PVC size)
+

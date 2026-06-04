@@ -1,0 +1,10 @@
+srl $t4, $t4, 4
+add $t3, $t4, $t4
+addi $t4, $zero, 10
+sw $t4, 5($t0)
+lw $t0, 5($t0)
+addi $t4, $t4, 10
+sll $t4, $t4, 4
+add $t3, $t4, $t4
+beq $t4,$t3, -4
+beq $t4, $t4, -4

@@ -1,0 +1,1 @@
+1. In "Truth Table+K-Map+Flags.jpg" file, A_3 should be replaced with X_3 for the overflow formulation.
